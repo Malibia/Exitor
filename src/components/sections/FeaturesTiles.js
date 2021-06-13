@@ -74,8 +74,7 @@ const FeaturesTiles = ({
                     Easy To Use
                     </h4>
                   <p className="m-0 text-sm">
-                    With our streamlined workflow, and user-friendly UI, we make it easy for business owners and investors to interact and make agreements using a friendly dashboard backed by smart contracts, no need for interacting with bare code, consensus algorithms or programming a token contract to tokenize your business assets.
-                    We also have a thoroughly done high-level documentation for you to dive in for more clarity. Feel free to also contact us to help you set up everything and clarify the process of Exitor
+                    Easy onboarding with a streamlined standardized workflow, user-friendly UI, and an accompanying high-level documentation simplifying understanding of how the platform works
                     </p>
                 </div>
               </div>
@@ -94,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Bank-grade security
+                    High-level protocol security
                     </h4>
                   <p className="m-0 text-sm">
-                    Running on the Algorand Blockchain makes Exitor very secure out of the box.The Algorand Blockchain is one of the few public, permissionless blockchains in the world that have a working solution for the blockhain trilemma, meaning that they run with full decentralization, high-level security and robust scalability, no sacrifices!
+                    Exitor leverages the multi-signature and logic-signature implementations provided by Algorand to secure all transactions made on its platform
                     </p>
                 </div>
               </div>
@@ -108,7 +107,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
+                      src={require('./../../assets/images/feature-tile-icon-pre03.svg')}
                       alt="Features tile icon 03"
                       width={64}
                       height={64} />
@@ -116,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  Escrow Functionalities
+                  Escrow Contracts
                     </h4>
                   <p className="m-0 text-sm">
-                  When an investors evaluate a business listing, they deposit their offer in a stateless escrow contract before a deal is made. This safeguards their finances as well as creates a trustless environment between business owners and investors. Impossible for anyone to cheat their way into Exitor.
+                  Non-custodial, fully audited and stateless escrow contracts on Exitor ensure trustless settlement of deals and financial agreements made between parties on Exitor
                     </p>
                 </div>
               </div>
@@ -130,7 +129,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-04.svg')}
+                      src={require('./../../assets/images/feature-tile-icon-pre04.svg')}
                       alt="Features tile icon 04"
                       width={64}
                       height={64} />
@@ -141,7 +140,7 @@ const FeaturesTiles = ({
                    Valuation Services
                     </h4>
                   <p className="m-0 text-sm">
-                    For informal businesses and sole proprietorships, we do valuation services before any micro listings in order to give a clarified representation of your venture to investors. It offers a clean bill of confidence before going ahead on Exitor
+                    Exitor offers business valuation services for informal businesses and sole proprietors before listing on the platform
                     </p>
                 </div>
               </div>
@@ -152,7 +151,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-05.svg')}
+                      src={require('./../../assets/images/feature-tile-icon-pre05.svg')}
                       alt="Features tile icon 05"
                       width={64}
                       height={64} />
@@ -160,9 +159,9 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Chartered &amp; Regulated Financial Services                    </h4>
+                    Chartered, inclusive DeFi                   </h4>
                   <p className="m-0 text-sm">
-                    The Algorand Blockchain is aimed at powering FutureFi(Finance of the Future), their tools, which we have religiously utilized to build Exitor are audited and built in the lens of sober regulation. The Algorand Blockchain even boasts of a Sharia Compliance Certificate, making the tech that Exitor uses fit for Islamic Banking.
+                    Algorand has its open-source financial tooling chartered. Additionally, it boasts of a Sharia Compliance Certificate, making Exitor available for the masses, Islamic Banking not withheld
                     </p>
                 </div>
               </div>
@@ -173,7 +172,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-06.svg')}
+                      src={require('./../../assets/images/feature-tile-icon-pre06.svg')}
                       alt="Features tile icon 06"
                       width={64}
                       height={64} />
@@ -181,10 +180,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Standardized Financial Tooling
+                    Accredited Investor Pool
                     </h4>
                   <p className="m-0 text-sm">
-                    You do not need to use a third-party financial service or bank in order to send financial transactions once you settle on a deal, Exitor has a built-in device-agnostic payment service, and wallet for you to send ALGOS(our native currency) across the platform. Everything is self-contained, with extremely low costs of transactions
+                    Exitor has a pool of accredited investors registered that safeguard trusted opt-ins into listed business assets
                     </p>
                 </div>
               </div>

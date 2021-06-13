@@ -110,7 +110,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/decentralization.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -120,13 +120,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Borderless &amp; radius of access
+                  Global Access
                   </div>
                 <h3 className="mt-0 mb-12">
-                  global decentralized point of access
+                  Borderless, peer-to-peer
                   </h3>
                 <p className="m-0">
-                  Exitor runs its core contracts and financial tooling on the Algorand, an open-source public blockchain, giving you access to wide pool of investors as a business owner and if you are an investors, a wide pool of business owners from across the world. No cross-border or location-specifc hurdles when making deals and transactions. No hidden middlemen or fees when finalizing agreements
+                  By virtue of being hosted on a public, open-source permissionless blockchain, Exitor is available to use globally
                   </p>
               </div>
               <div className={
@@ -136,7 +136,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/2.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
