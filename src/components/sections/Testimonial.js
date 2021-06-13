@@ -69,7 +69,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">Otieno Omollo</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0"></a>
+                    <a href="#0">Facebook profile</a>
                   </span>
                 </div>
               </div>
@@ -86,7 +86,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">Julia Wanjiku</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0"></a>
+                    <a href="#0">Linkedin profile</a>
                   </span>
                 </div>
               </div>
@@ -103,7 +103,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">George Fuller</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0"></a>
+                    <a href="#0">Twitter profile</a>
                   </span>
                 </div>
               </div>
