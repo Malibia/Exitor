@@ -96,7 +96,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Exitor is the future of business exits and investor-to-business interactions, no question! Their workflow and choice of technology is just a perfect match and breeze. And it is all verifiable and transparent since you can check the transactions on the public blockchain that it runs on. Bravo to the Exitor Team for the product!
+                    — Exitor is the future of business exits and investor-to-business interactions, no question! Their workflow and choice of technology is just a perfect match and breeze. And it is all verifiable and transparent since you can check the transactions on the public blockchain that it runs on. Bravo to the Exitor Team for the ingenious product!
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

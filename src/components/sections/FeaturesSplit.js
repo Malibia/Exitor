@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Borderless, peer-to-peer
                   </h3>
                 <p className="m-0">
-                  By virtue of being hosted on a public, open-source permissionless blockchain, Exitor is available to use globally
+                  By virtue of being hosted on a public, open-source permissionless blockchain, Exitor is available to use globally and is internally censorship-resistant
                   </p>
               </div>
               <div className={
