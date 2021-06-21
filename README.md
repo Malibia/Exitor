@@ -2,7 +2,7 @@
 
 ## Landing Page for the Exitor Platform
 
-
+Run the page to get an idea of what Exitor is
 
 To run the page:
 
@@ -24,6 +24,3 @@ you can also run ```npm run build``` to create a build version of it
 If you do not want to run the project locally, run via the Gitpod button at the far right and run the same npm scripts above.
 
 Thank you
-
-
-This project is only production focused for the landing page aspect. There are still many features to be worked on in progress
