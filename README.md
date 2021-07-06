@@ -1,6 +1,4 @@
-��# Exitor
-
-## Landing Page for the Exitor Platform
+## Exitor
 
 Run the page to get an idea of what Exitor is
 
