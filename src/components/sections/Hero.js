@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://onboarding.exitor.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://github.com/Malibia">
                     Get started
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/Malibia/exitor-contracts">
+                  <Button tag="a" color="dark" wideMobile href="https://github.com/Malibia">
                     View on Github
                     </Button>
                 </ButtonGroup>
