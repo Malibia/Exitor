@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="https://exitor.github.io" onClick={closeMenu}>Technical Docs</Link>
+                      <Link to="https://github.com/Malibia" onClick={closeMenu}>Technical Docs</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="https://docs.exitor.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>High-Level Overview</Link>
+                        <Link to="https://github.com/Malibia" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>High-Level Overview</Link>
                       </li>
                     </ul>}
                 </div>
